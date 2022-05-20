@@ -1,2 +1,1 @@
-# frontend-mentor-challenge10
-Frontend Mentor Huddle challenge
+I used grid in this project.
